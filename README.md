@@ -1,8 +1,8 @@
-**Mushroom Classification Dataset**
+# **Mushroom Classification Dataset**
 
 This repository contains a dataset used for the classification of mushrooms as either edible or poisonous. The dataset consists of 8,124 samples with 23 categorical features, which describe various characteristics of mushrooms.
 
-**Dataset Overview**
+## **Dataset Overview**
 
 The dataset includes the following attributes:
 
